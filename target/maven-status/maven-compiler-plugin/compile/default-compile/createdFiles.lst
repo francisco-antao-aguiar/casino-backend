@@ -1,0 +1,15 @@
+com\casino\controller\CasinoController.class
+com\casino\entity\UserInfo.class
+com\casino\model\FundsInput.class
+com\casino\security\SecurityConfiguration.class
+com\casino\service\CasinoService.class
+com\casino\model\CoinFlipInput.class
+com\casino\model\TokenInfo.class
+com\casino\model\RouletteInput.class
+com\casino\CasinoApplication.class
+com\casino\security\MyCorsConfig.class
+com\casino\model\CoinFlipOutput$CoinFlipOutputBuilder.class
+com\casino\model\CoinFlipOutput.class
+com\casino\model\RouletteOutput.class
+com\casino\repository\UserInfoRepository.class
+com\casino\model\RouletteOutput$RouletteOutputBuilder.class
